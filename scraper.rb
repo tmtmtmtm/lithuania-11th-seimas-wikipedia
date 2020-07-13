@@ -70,10 +70,26 @@ class MemberItem < Scraped::HTML
     tds[2].css('a').map(&:text).map(&:tidy).first
   end
 
+  # These rely on no-one having both a From and Until. If this wasn't
+  # true we'd need to be more precise in our parsing.
+  field :start_date do
+    return unless notes.include? 'From '
+    Date.parse(notes)
+  end
+
+  field :end_date do
+    return unless notes.include? 'Until '
+    Date.parse(notes)
+  end
+
   private
 
   def tds
     noko.css('td')
+  end
+
+  def notes
+    tds[3].text.tidy
   end
 end
 
