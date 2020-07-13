@@ -1,0 +1,3 @@
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  ?item wdt:P39 wd:Q18507240 ; rdfs:label ?itemLabel .
+}
