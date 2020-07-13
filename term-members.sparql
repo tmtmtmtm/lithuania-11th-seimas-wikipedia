@@ -1,0 +1,15 @@
+# List of P39 data for this term. Fetch with:
+#     wd sparql term-members.sparql > wikidata.json
+
+SELECT DISTINCT ?item ?itemLabel ?statement ?party ?area ?start ?end ?replacedBy ?cause WHERE {
+  ?item p:P39 ?statement .
+  ?statement ps:P39 wd:Q18507240 ; pq:P2937 wd:Q64510.
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL { ?statement pq:P768 ?area }
+  OPTIONAL { ?statement pq:P4100 ?party }
+  OPTIONAL { ?statement pq:P1366 ?replacedBy }
+  OPTIONAL { ?statement pq:P1534 ?cause }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+ORDER BY ?item
