@@ -4,63 +4,72 @@
       "value": "Q1157636",
       "label": "Dainius Kreivys"
     },
-    "statement": "Q1157636$37AF4684-9DD9-4274-93AE-F28AA0B42A6B"
+    "statement": "Q1157636$37AF4684-9DD9-4274-93AE-F28AA0B42A6B",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q11714005",
       "label": "Irina Rozova"
     },
-    "statement": "Q11714005$DE4903C7-D1C9-45C0-B0B1-0F111802B430"
+    "statement": "Q11714005$DE4903C7-D1C9-45C0-B0B1-0F111802B430",
+    "party": "Q1357218"
   },
   {
     "item": {
       "value": "Q117150",
       "label": "Zigmantas Balčytis"
     },
-    "statement": "Q117150$EF79EC70-01FB-41CF-8195-1461846E1F13"
+    "statement": "Q117150$EF79EC70-01FB-41CF-8195-1461846E1F13",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q118937",
       "label": "Gediminas Kirkilas"
     },
-    "statement": "Q118937$413E3C94-7F6B-4A51-86A1-065D362EADB7"
+    "statement": "Q118937$413E3C94-7F6B-4A51-86A1-065D362EADB7",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q12649485",
       "label": "Audrius Nakas"
     },
-    "statement": "Q12649485$4C7786CB-28A9-4C0A-A610-26A7EE13C84B"
+    "statement": "Q12649485$4C7786CB-28A9-4C0A-A610-26A7EE13C84B",
+    "party": "Q1261824"
   },
   {
     "item": {
       "value": "Q12670846",
       "label": "Raminta Popovienė"
     },
-    "statement": "Q12670846$A2B3B4D9-0029-4511-B484-CA8009942DB9"
+    "statement": "Q12670846$A2B3B4D9-0029-4511-B484-CA8009942DB9",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q12679521",
       "label": "Šarūnas Gustainis"
     },
-    "statement": "Q12679521$385CB7E9-61EC-43C1-A83E-4BA11605BD37"
+    "statement": "Q12679521$385CB7E9-61EC-43C1-A83E-4BA11605BD37",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q1305783",
       "label": "Juozas Bernatonis"
     },
-    "statement": "Q1305783$68A56C76-F558-4CF5-BCF8-9647BD207CFD"
+    "statement": "Q1305783$68A56C76-F558-4CF5-BCF8-9647BD207CFD",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q1361304",
       "label": "Vytautas Juozapaitis"
     },
-    "statement": "Q1361304$04154CDF-F0F7-42D7-A2B9-EFBAFC3C5FA5"
+    "statement": "Q1361304$04154CDF-F0F7-42D7-A2B9-EFBAFC3C5FA5",
+    "party": "Q81556"
   },
   {
     "item": {
@@ -74,91 +83,104 @@
       "value": "Q1376538",
       "label": "Juozas Olekas"
     },
-    "statement": "Q1376538$FDDBBBB4-2A46-4BAA-8410-43E775B6E055"
+    "statement": "Q1376538$FDDBBBB4-2A46-4BAA-8410-43E775B6E055",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q1397662",
       "label": "Remigijus Šimašius"
     },
-    "statement": "Q1397662$740D7EE4-B60C-4BBF-877C-58E7DB329140"
+    "statement": "Q1397662$740D7EE4-B60C-4BBF-877C-58E7DB329140",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q1502078",
       "label": "Valdemar Tomaševski"
     },
-    "statement": "Q1502078$B7E4FF1B-F71B-4F26-8F2D-C3F7A3B6F644"
+    "statement": "Q1502078$B7E4FF1B-F71B-4F26-8F2D-C3F7A3B6F644",
+    "party": "Q1357218"
   },
   {
     "item": {
       "value": "Q1525171",
       "label": "Gintaras Steponavičius"
     },
-    "statement": "Q1525171$C02010C6-5673-43EC-A898-7CDAB9388D13"
+    "statement": "Q1525171$C02010C6-5673-43EC-A898-7CDAB9388D13",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q1963591",
       "label": "Naglis Puteikis"
     },
-    "statement": "Q1963591$7BC15820-BD69-4754-A5CF-5BE1F9A6F217"
+    "statement": "Q1963591$7BC15820-BD69-4754-A5CF-5BE1F9A6F217",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q204847",
       "label": "Eugenijus Gentvilas"
     },
-    "statement": "Q204847$7F7147D1-EA0D-458A-8BA6-DDE0DC5F37C2"
+    "statement": "Q204847$7F7147D1-EA0D-458A-8BA6-DDE0DC5F37C2",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q2080450",
       "label": "Petras Auštrevičius"
     },
-    "statement": "Q2080450$5CAA23C8-1A03-4486-8E9B-88FDCDE637BF"
+    "statement": "Q2080450$5CAA23C8-1A03-4486-8E9B-88FDCDE637BF",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q2453848",
       "label": "Sergėjus Jovaiša"
     },
-    "statement": "Q2453848$50C60B7B-E860-41DC-BDB7-9B9670331511"
+    "statement": "Q2453848$50C60B7B-E860-41DC-BDB7-9B9670331511",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q2543218",
       "label": "Algirdas Sysas"
     },
-    "statement": "Q2543218$BAA91F42-C875-4DBB-89E4-F6869EC628CD"
+    "statement": "Q2543218$BAA91F42-C875-4DBB-89E4-F6869EC628CD",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q270330",
       "label": "Viktorija Čmilytė"
     },
-    "statement": "Q270330$4AEDE808-66BD-4AA2-968F-D2825CE9A0AF"
+    "statement": "Q270330$4AEDE808-66BD-4AA2-968F-D2825CE9A0AF",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q270360",
       "label": "Irena Degutienė"
     },
-    "statement": "Q270360$F55F92EA-8719-4097-9BA8-5B5E7A284839"
+    "statement": "Q270360$F55F92EA-8719-4097-9BA8-5B5E7A284839",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q271646",
       "label": "Rasa Juknevičienė"
     },
-    "statement": "Q271646$5D6F080E-30F9-472C-8291-14081FEB671B"
+    "statement": "Q271646$5D6F080E-30F9-472C-8291-14081FEB671B",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q339166",
       "label": "Vincė Vaidevutė Margevičienė"
     },
-    "statement": "Q339166$ACF7DCB2-6E4D-4E11-9A7B-556D8F5B7B7F"
+    "statement": "Q339166$ACF7DCB2-6E4D-4E11-9A7B-556D8F5B7B7F",
+    "party": "Q81556"
   },
   {
     "item": {
@@ -172,56 +194,64 @@
       "value": "Q3610379",
       "label": "Vidas Mikalauskas"
     },
-    "statement": "Q3610379$00CE3530-2200-49A3-82C2-61455B085BB9"
+    "statement": "Q3610379$00CE3530-2200-49A3-82C2-61455B085BB9",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q3660989",
       "label": "Juras Požela"
     },
-    "statement": "Q3660989$1A323684-F9E2-4E26-B9F1-8ACD4362AEB7"
+    "statement": "Q3660989$1A323684-F9E2-4E26-B9F1-8ACD4362AEB7",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q3672207",
       "label": "Arvydas Anušauskas"
     },
-    "statement": "Q3672207$1C77AC16-53AB-4517-8F0E-774DC22DF04D"
+    "statement": "Q3672207$1C77AC16-53AB-4517-8F0E-774DC22DF04D",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q3672324",
       "label": "Marija Aušrinė Pavilionienė"
     },
-    "statement": "Q3672324$1A488879-406A-4FE0-8D9C-3179470C7A94"
+    "statement": "Q3672324$1A488879-406A-4FE0-8D9C-3179470C7A94",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q3672343",
       "label": "Emanuelis Zingeris"
     },
-    "statement": "Q3672343$D18F0AB9-C6AE-4C5F-BBB3-D5058D5046B9"
+    "statement": "Q3672343$D18F0AB9-C6AE-4C5F-BBB3-D5058D5046B9",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q3672488",
       "label": "Mantas Adomėnas"
     },
-    "statement": "Q3672488$93AFBFBF-636A-4E8A-999B-E1E55A8E4412"
+    "statement": "Q3672488$93AFBFBF-636A-4E8A-999B-E1E55A8E4412",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q3672697",
       "label": "Vilija Aleknaitė-Abramikienė"
     },
-    "statement": "Q3672697$590E737D-A2EB-4F1E-8DEF-C59133B04479"
+    "statement": "Q3672697$590E737D-A2EB-4F1E-8DEF-C59133B04479",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q371858",
       "label": "Eligijus Masiulis"
     },
-    "statement": "Q371858$054441CA-9C8C-4685-91DA-E18F312BB0A9"
+    "statement": "Q371858$054441CA-9C8C-4685-91DA-E18F312BB0A9",
+    "party": "Q1466907"
   },
   {
     "item": {
@@ -235,56 +265,64 @@
       "value": "Q394006",
       "label": "Algirdas Butkevičius"
     },
-    "statement": "Q394006$0D6A88AF-BEAE-4F6A-B671-15AAF5D55ADB"
+    "statement": "Q394006$0D6A88AF-BEAE-4F6A-B671-15AAF5D55ADB",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q395152",
       "label": "Agnė Bilotaitė"
     },
-    "statement": "Q395152$C75DA4CC-AD84-49A7-A577-401B6529DEEA"
+    "statement": "Q395152$C75DA4CC-AD84-49A7-A577-401B6529DEEA",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q435394",
       "label": "Vilija Blinkevičiūtė"
     },
-    "statement": "Q435394$FFBF2D78-1734-41C3-9703-CB3ECD5A21E2"
+    "statement": "Q435394$FFBF2D78-1734-41C3-9703-CB3ECD5A21E2",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q541252",
       "label": "Birutė Vėsaitė"
     },
-    "statement": "Q541252$87986D85-69B5-4B9D-BDA7-5D7AF138B931"
+    "statement": "Q541252$87986D85-69B5-4B9D-BDA7-5D7AF138B931",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q541371",
       "label": "Rima Baškienė"
     },
-    "statement": "Q541371$614D63FA-C174-4D6B-94D7-5B7B1A06AE3B"
+    "statement": "Q541371$614D63FA-C174-4D6B-94D7-5B7B1A06AE3B",
+    "party": "Q285817"
   },
   {
     "item": {
       "value": "Q541431",
       "label": "Irena Šiaulienė"
     },
-    "statement": "Q541431$291F93CF-A48E-4D8F-B517-A5C445889D83"
+    "statement": "Q541431$291F93CF-A48E-4D8F-B517-A5C445889D83",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q541498",
       "label": "Neringa Venckienė"
     },
-    "statement": "Q541498$165549D4-FC5F-4BE6-A1B6-9FA3B7714F73"
+    "statement": "Q541498$165549D4-FC5F-4BE6-A1B6-9FA3B7714F73",
+    "party": "Q1261824"
   },
   {
     "item": {
       "value": "Q552497",
       "label": "Rokas Žilinskas"
     },
-    "statement": "Q552497$EEF91106-295E-4D3D-9E0D-E1649C059623"
+    "statement": "Q552497$EEF91106-295E-4D3D-9E0D-E1649C059623",
+    "party": "Q81556"
   },
   {
     "item": {
@@ -298,49 +336,56 @@
       "value": "Q556443",
       "label": "Kęstutis Glaveckas"
     },
-    "statement": "Q556443$B7042C20-8853-48D0-B103-B02F90E53579"
+    "statement": "Q556443$B7042C20-8853-48D0-B103-B02F90E53579",
+    "party": "Q1466907"
   },
   {
     "item": {
       "value": "Q556555",
       "label": "Algirdas Vaclovas Patackas"
     },
-    "statement": "Q556555$E6EB4ADF-D7AA-418B-A74A-1CDE87A80D03"
+    "statement": "Q556555$E6EB4ADF-D7AA-418B-A74A-1CDE87A80D03",
+    "party": "Q1261824"
   },
   {
     "item": {
       "value": "Q557932",
       "label": "Valentinas Mazuronis"
     },
-    "statement": "Q557932$EB1641FB-1C68-421D-BD2F-5CFDE8A2569D"
+    "statement": "Q557932$EB1641FB-1C68-421D-BD2F-5CFDE8A2569D",
+    "party": "Q81517"
   },
   {
     "item": {
       "value": "Q562964",
       "label": "Rimantas Dagys"
     },
-    "statement": "Q562964$31D41029-8247-4BAD-8081-8CC30BB7E4FD"
+    "statement": "Q562964$31D41029-8247-4BAD-8081-8CC30BB7E4FD",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q5765050",
       "label": "Michał Mackiewicz"
     },
-    "statement": "Q5765050$2F03FBFE-6916-4D20-AD0B-ED2412FF39E2"
+    "statement": "Q5765050$2F03FBFE-6916-4D20-AD0B-ED2412FF39E2",
+    "party": "Q1357218"
   },
   {
     "item": {
       "value": "Q6556452",
       "label": "Rimantė Šalaševičiūtė"
     },
-    "statement": "Q6556452$2CD38163-2A02-4E97-9A30-D28EE82C3773"
+    "statement": "Q6556452$2CD38163-2A02-4E97-9A30-D28EE82C3773",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q774300",
       "label": "Vytenis Andriukaitis"
     },
-    "statement": "Q774300$3CD8A62C-A314-444C-9383-C173F9528CFF"
+    "statement": "Q774300$3CD8A62C-A314-444C-9383-C173F9528CFF",
+    "party": "Q4362"
   },
   {
     "item": {
@@ -354,41 +399,47 @@
       "value": "Q9310614",
       "label": "Rita Tamašunienė"
     },
-    "statement": "Q9310614$6FF11841-FA65-4460-A2D3-53F006882CBA"
+    "statement": "Q9310614$6FF11841-FA65-4460-A2D3-53F006882CBA",
+    "party": "Q1357218"
   },
   {
     "item": {
       "value": "Q9370800",
       "label": "Wanda Krawczonok"
     },
-    "statement": "Q9370800$3C2BEE05-344F-4A4F-A36B-8DBBE8622237"
+    "statement": "Q9370800$3C2BEE05-344F-4A4F-A36B-8DBBE8622237",
+    "party": "Q1357218"
   },
   {
     "item": {
       "value": "Q57663",
       "label": "Andrius Kubilius"
     },
-    "statement": "Q57663$2D072E69-18BA-40AC-B225-E3041A9E5D20"
+    "statement": "Q57663$2D072E69-18BA-40AC-B225-E3041A9E5D20",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q58201",
       "label": "Audronius Ažubalis"
     },
-    "statement": "Q58201$59CC9653-6033-4825-B24F-FA50123ECEDD"
+    "statement": "Q58201$59CC9653-6033-4825-B24F-FA50123ECEDD",
+    "party": "Q81556"
   },
   {
     "item": {
       "value": "Q59723",
       "label": "Rimantas Sinkevičius"
     },
-    "statement": "Q59723$09732DC1-1474-441C-85D3-318E2BF59CEE"
+    "statement": "Q59723$09732DC1-1474-441C-85D3-318E2BF59CEE",
+    "party": "Q4362"
   },
   {
     "item": {
       "value": "Q59725",
       "label": "Remigijus Žemaitaitis"
     },
-    "statement": "Q59725$EF46384F-737F-400A-BB90-74A6457F3A80"
+    "statement": "Q59725$EF46384F-737F-400A-BB90-74A6457F3A80",
+    "party": "Q81517"
   }
 ]
