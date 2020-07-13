@@ -9,6 +9,34 @@ require 'wikidata_ids_decorator'
 require_relative 'lib/remove_notes'
 require_relative 'lib/unspan_all_tables'
 
+class ExistingMembers
+  def initialize(pathname)
+    @pathname = pathname
+  end
+
+  def single_exact_match_for(name)
+    found = by_name[name] or return
+    ids = found.map(&:last).uniq
+    unless ids.count == 1
+      warn "More than one match for #{name}"
+      return
+    end
+    ids.first
+  end
+
+  private
+
+  attr_reader :pathname
+
+  def csv
+    @csv ||= CSV.parse(pathname.read)
+  end
+
+  def by_name
+    csv.group_by(&:first)
+  end
+end
+
 class MembersPage < Scraped::HTML
   decorator RemoveNotes
   decorator WikidataIdsDecorator::Links
@@ -24,7 +52,6 @@ class MembersPage < Scraped::HTML
     noko.css('#Members').xpath('.//following::table').first
   end
 end
-
 
 class MemberItem < Scraped::HTML
   field :id do
@@ -52,6 +79,14 @@ end
 
 url = URI.encode 'https://en.wikipedia.org/wiki/Eleventh_Seimas_of_Lithuania'
 data = Scraped::Scraper.new(url => MembersPage).scraper.members
+
+# Generated from:
+#   wd sparql all-members.sparql | jq -r '.[] | [.item.label, .item.value] | @csv' | sort | uniq
+all_members_csv = Pathname.new('all-members.csv')
+if all_members_csv.exist?
+  lookup = ExistingMembers.new(all_members_csv)
+  data.each { |mem| mem[:id] ||= lookup.single_exact_match_for(mem[:name]) }
+end
 
 header = data.first.keys.to_csv
 rows = data.map { |row| row.values.to_csv }
